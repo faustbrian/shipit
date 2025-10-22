@@ -1,0 +1,928 @@
+{
+    "data": [
+        {
+            "serviceId": "a2b.cold",
+            "carrier": "A2B",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/a2b.png"
+        },
+        {
+            "serviceId": "a2b.freight",
+            "carrier": "A2B",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/a2b.png"
+        },
+        {
+            "serviceId": "a2b.package",
+            "carrier": "A2B",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/a2b.png"
+        },
+        {
+            "serviceId": "a2b.package10",
+            "carrier": "A2B",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/a2b.png"
+        },
+        {
+            "serviceId": "asendia.asendiaftg",
+            "carrier": "Asendia",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": true,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/asendia.png"
+        },
+        {
+            "serviceId": "asendia.asendiaftgl",
+            "carrier": "Asendia",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": true,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/asendia.png"
+        },
+        {
+            "serviceId": "bring.domestic_business_groupage",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring_logo.png"
+        },
+        {
+            "serviceId": "bring.domestic_business_parcel",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring_logo.png"
+        },
+        {
+            "serviceId": "bring.domestic_business_partload",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring_logo.png"
+        },
+        {
+            "serviceId": "bring.domestic_express_next_day",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring_logo.png"
+        },
+        {
+            "serviceId": "bring.domestic_home_delivery_of_heavier_goods",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring-logo.png"
+        },
+        {
+            "serviceId": "bring.domestic_home_delivery_parcel",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring-logo.png"
+        },
+        {
+            "serviceId": "bring.domestic_mailbox_parcel",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring-logo.png"
+        },
+        {
+            "serviceId": "bring.domestic_pick_up_parcel",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring-logo.png"
+        },
+        {
+            "serviceId": "budbee.budbeebox",
+            "carrier": "Budbee",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/home-full-logo-medium.png"
+        },
+        {
+            "serviceId": "budbee.budbeedlvday",
+            "carrier": "Budbee",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/home-full-logo-medium.png"
+        },
+        {
+            "serviceId": "dhl_express.express_easy",
+            "carrier": "DHL Express",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": true,
+            "logo": ""
+        },
+        {
+            "serviceId": "dhl_express.express_worldwide",
+            "carrier": "DHL Express",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": true,
+            "logo": ""
+        },
+        {
+            "serviceId": "dhlfreightfi.dhlfreightfiec",
+            "carrier": "DHL Freight",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DHL_logo.png"
+        },
+        {
+            "serviceId": "dpd.dindpdbaltpickup",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/dpd.png"
+        },
+        {
+            "serviceId": "dpd.dindpdbaltpickuplt",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dindpdbaltpickuplv",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdbaltpriv",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdbaltprivlt",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdbaltprivpallet",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdbalvpriv",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdeeclassic",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdeeclassicpallet",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdltclassic",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdlvclassic",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.dpdlvclassicpallet",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.pupdpdbaltpickup",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.pupdpdbaltpickuplt",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "dpd.pupdpdbaltpickuplv",
+            "carrier": "DPD",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/DPD_logo_redgrad_rgb.png"
+        },
+        {
+            "serviceId": "fedex.distancedeferred",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.fdxiep",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.fdxiepf",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex-8.png"
+        },
+        {
+            "serviceId": "fedex.fdxipd",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex-8.png"
+        },
+        {
+            "serviceId": "fedex.fdxipf",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.fdxipp",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex-8.png"
+        },
+        {
+            "serviceId": "fedex.first",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.intconnectplus",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.intfirst",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.intprioexpress",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.prioexpress",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.prioexpressfreight",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.priofreight",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.prioovernight",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.priority",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.regionaleconomy",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.regionaleconomyfreight",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.uknextday",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.uknextdayafternoon",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.uknextdayearlymorn",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.uknextdayendofday",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "fedex.uknextdaymidmorn",
+            "carrier": "FedEx",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/fedex_logo.png"
+        },
+        {
+            "serviceId": "glsfi.euro_business_parcel_shop",
+            "carrier": "GLS",
+            "requiresEmailForRecipient": true,
+            "requiresHSTariffCode": true,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/gls_logo.png"
+        },
+        {
+            "serviceId": "glsfi.euro_business_parcel_shop_return",
+            "carrier": "GLS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": true,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/gls_logo.png"
+        },
+        {
+            "serviceId": "glsfi.global_business_parcel",
+            "carrier": "GLS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": true,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/gls_logo.png"
+        },
+        {
+            "serviceId": "glsfi.global_express_parcel",
+            "carrier": "GLS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": true,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/gls_logo.png"
+        },
+        {
+            "serviceId": "glsfi.glsfiebp",
+            "carrier": "GLS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": true,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/gls_logo.png"
+        },
+        {
+            "serviceId": "instabox.express",
+            "carrier": "Instabox",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/instabox.jpg"
+        },
+        {
+            "serviceId": "itellalog.pof1",
+            "carrier": "Itella Logistiikka",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "jakeluyhtio_suomi.pienpaketti",
+            "carrier": "Jakeluyhti\u00f6 Suomi",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/jakeluyhtio-suomi-logo.png"
+        },
+        {
+            "serviceId": "kaukokiito.freight",
+            "carrier": "Kaukokiito",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/kaukokiito--kaukokiito.freight.png"
+        },
+        {
+            "serviceId": "kaukokiito.parcel",
+            "carrier": "Kaukokiito",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/kaukokiito--kaukokiito.parcel.png"
+        },
+        {
+            "serviceId": "kl.klgrp",
+            "carrier": "DB Schenker System",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/db_schenker_logo.png"
+        },
+        {
+            "serviceId": "mh.mh3050",
+            "carrier": "Matkahuolto",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png"
+        },
+        {
+            "serviceId": "mh.mh34",
+            "carrier": "Matkahuolto",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png"
+        },
+        {
+            "serviceId": "mh.mh57",
+            "carrier": "Matkahuolto",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png"
+        },
+        {
+            "serviceId": "mh.mh80",
+            "carrier": "Matkahuolto",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png"
+        },
+        {
+            "serviceId": "mh.mh84",
+            "carrier": "Matkahuolto",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png"
+        },
+        {
+            "serviceId": "mh.mh95",
+            "carrier": "Matkahuolto",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png"
+        },
+        {
+            "serviceId": "mh.mh96",
+            "carrier": "Matkahuolto",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png"
+        },
+        {
+            "serviceId": "mh.mh97",
+            "carrier": "Matkahuolto",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png"
+        },
+        {
+            "serviceId": "omni.omniparcelmachinelt",
+            "carrier": "Omniva",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/omniva--omni.omniparcelmachinelt.svg"
+        },
+        {
+            "serviceId": "omni.omniparcelmachinelv",
+            "carrier": "Omniva",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/omniva--omni.omniparcelmachinelv.svg"
+        },
+        {
+            "serviceId": "plscm.p17fi",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord_logo.png"
+        },
+        {
+            "serviceId": "plscm.p17fidpd",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "plscm.p18fi",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "plscm.p18fidpd",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "plscm.p19_parcel_machine",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "plscm.p19_service_point",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "plscm.p19fi",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "plscm.p19fidpd",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "plscm.p52fi",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "plscm.p52fidpd",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "pnl.pnl330",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring_logo.png"
+        },
+        {
+            "serviceId": "pnl.pnl340",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring-logo.png"
+        },
+        {
+            "serviceId": "pnl.pnl349",
+            "carrier": "Bring",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/bring-logo.png"
+        },
+        {
+            "serviceId": "posti.expressrahti21",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.it14i",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti_logo.png"
+        },
+        {
+            "serviceId": "posti.itpr",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2017",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2017d",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2101",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2102",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2104",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2144",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2331",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": true,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20black%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2351",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20black%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2351ee",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti--posti.po2351ee.png"
+        },
+        {
+            "serviceId": "posti.po2352",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2352ee",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti--posti.po2352ee.png"
+        },
+        {
+            "serviceId": "posti.po2461",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2711",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": true,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png"
+        },
+        {
+            "serviceId": "posti.po2711ee",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti--posti.po2711ee.png"
+        },
+        {
+            "serviceId": "posti.po2711eepp",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti--posti.po2711eepp.png"
+        },
+        {
+            "serviceId": "posti.po2711lt",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti--posti.po2711lt.png"
+        },
+        {
+            "serviceId": "posti.po2711ltpp",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti--posti.po2711ltpp.png"
+        },
+        {
+            "serviceId": "posti.po2711lv",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti--posti.po2711lv.png"
+        },
+        {
+            "serviceId": "posti.po2711lvpp",
+            "carrier": "Posti",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/posti--posti.po2711lvpp.png"
+        },
+        {
+            "serviceId": "postnord.mypack_box",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "postnord.p83",
+            "carrier": "Postnord",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/postnord-logotype-rgb.jpg"
+        },
+        {
+            "serviceId": "sbtlfi.system",
+            "carrier": "DB Schenker System",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/db_schenker_logo.png"
+        },
+        {
+            "serviceId": "sbtlfiexp.sbtlfiexp",
+            "carrier": "DB Schenker Finland",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/db_schenker_logo.png"
+        },
+        {
+            "serviceId": "sbtlfirrex.sbtlfirrex",
+            "carrier": "DB Schenker Finland",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Logo_DB_Schenker.svg.png"
+        },
+        {
+            "serviceId": "unisend.locker",
+            "carrier": "Unisend",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/unisend--unisend.locker.png"
+        },
+        {
+            "serviceId": "ups.accesp",
+            "carrier": "UPS",
+            "requiresEmailForRecipient": true,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/laheta_paketit_UPS_kautta.png"
+        },
+        {
+            "serviceId": "ups.accespexpdtp",
+            "carrier": "UPS",
+            "requiresEmailForRecipient": true,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/UPS%20Access%20Point.png"
+        },
+        {
+            "serviceId": "ups.accespstd",
+            "carrier": "UPS",
+            "requiresEmailForRecipient": true,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/UPS%20Access%20Point.png"
+        },
+        {
+            "serviceId": "ups.upsexpdtp",
+            "carrier": "UPS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/laheta_paketit_UPS_kautta.png"
+        },
+        {
+            "serviceId": "ups.upsexpp",
+            "carrier": "UPS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/laheta_paketit_UPS_kautta.png"
+        },
+        {
+            "serviceId": "ups.upssavd",
+            "carrier": "UPS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/laheta_paketit_UPS_kautta.png"
+        },
+        {
+            "serviceId": "ups.upssavp",
+            "carrier": "UPS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/laheta_paketit_UPS_kautta.png"
+        },
+        {
+            "serviceId": "ups.upsstdp",
+            "carrier": "UPS",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/laheta_paketit_UPS_kautta.png"
+        },
+        {
+            "serviceId": "venipak.domestic",
+            "carrier": "",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/venipak--venipak.domestic.png"
+        },
+        {
+            "serviceId": "venipak.domesticexpress",
+            "carrier": "",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/venipak--venipak.domesticexpress.png"
+        },
+        {
+            "serviceId": "venipak.domesticexpress22",
+            "carrier": "",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/venipak--venipak.domesticexpress22.png"
+        },
+        {
+            "serviceId": "venipak.international",
+            "carrier": "",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/venipak--venipak.international.png"
+        },
+        {
+            "serviceId": "wolt.wolt",
+            "carrier": "Wolt",
+            "requiresEmailForRecipient": false,
+            "requiresHSTariffCode": false,
+            "logo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/wolt_logo.png"
+        }
+    ]
+}
