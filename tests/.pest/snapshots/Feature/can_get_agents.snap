@@ -1,0 +1,1425 @@
+{
+    "status": 1,
+    "locations": [
+        {
+            "id": "6001",
+            "name": "H\u00e4mevaara",
+            "address1": "Koivuvaarankuja 2",
+            "city": "Vantaa",
+            "zipcode": "01640",
+            "countryCode": "FI",
+            "serviceId": "mh.mh80",
+            "carrier": "Matkahuolto",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png",
+            "openingHours": null,
+            "latitude": 60.256456,
+            "longitude": 24.814271,
+            "distanceInKilometers": 14.7,
+            "distanceInMeters": 14700
+        },
+        {
+            "id": "6004",
+            "name": "Pakettiautomaatti Lauttasaari Testi",
+            "address1": "Lauttasaarentie 8",
+            "city": "Helsinki",
+            "zipcode": "00200",
+            "countryCode": "FI",
+            "serviceId": "mh.mh80",
+            "carrier": "Matkahuolto",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png",
+            "openingHours": null,
+            "latitude": 60.160817,
+            "longitude": 24.87675,
+            "distanceInKilometers": 4.4,
+            "distanceInMeters": 4400
+        },
+        {
+            "id": "6011",
+            "name": "Pakettiautomaatti Swipbox Test 2",
+            "address1": "Koivuvaarankuja 2",
+            "city": "Vantaa",
+            "zipcode": "01640",
+            "countryCode": "FI",
+            "serviceId": "mh.mh80",
+            "carrier": "Matkahuolto",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png",
+            "openingHours": null,
+            "latitude": 60.256456,
+            "longitude": 24.814271,
+            "distanceInKilometers": 14.7,
+            "distanceInMeters": 14700
+        },
+        {
+            "id": "6012",
+            "name": "Pakettiautomaatti Swipbox Test 4",
+            "address1": "Koivuvaarankuja 2",
+            "city": "VANTAA",
+            "zipcode": "01640",
+            "countryCode": "FI",
+            "serviceId": "mh.mh80",
+            "carrier": "Matkahuolto",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png",
+            "openingHours": null,
+            "latitude": 60.256456,
+            "longitude": 24.814271,
+            "distanceInKilometers": 14.7,
+            "distanceInMeters": 14700
+        },
+        {
+            "id": "6014",
+            "name": "Pakettiautomaatti Swipbox Test 5",
+            "address1": "Koivuvaarankuja 2",
+            "city": "VANTAA",
+            "zipcode": "01640",
+            "countryCode": "FI",
+            "serviceId": "mh.mh80",
+            "carrier": "Matkahuolto",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png",
+            "openingHours": null,
+            "latitude": 60.256456,
+            "longitude": 24.814271,
+            "distanceInKilometers": 14.7,
+            "distanceInMeters": 14700
+        },
+        {
+            "id": "6706",
+            "name": "Pihkatie 5 iBoxen",
+            "address1": "Pihkatie 5",
+            "city": "HELSINKI",
+            "zipcode": "00410",
+            "countryCode": "FI",
+            "serviceId": "mh.mh80",
+            "carrier": "Matkahuolto",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/Matkahuolto_logo_round_DarkBlue_RGB.png",
+            "openingHours": null,
+            "latitude": 60.251859,
+            "longitude": 24.855303,
+            "distanceInKilometers": 13.4,
+            "distanceInMeters": 13400
+        },
+        {
+            "id": "001043203",
+            "name": "Postin automaatti, Lidl Graniittitalo",
+            "address1": "Salomonkatu 13",
+            "city": "Helsinki",
+            "zipcode": "00104",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-22:00"
+                ],
+                "tuesday": [
+                    "07:00-22:00"
+                ],
+                "wednesday": [
+                    "07:00-22:00"
+                ],
+                "thursday": [
+                    "07:00-22:00"
+                ],
+                "friday": [
+                    "07:00-22:00"
+                ],
+                "saturday": [
+                    "07:00-22:00"
+                ],
+                "sunday": [
+                    "10:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16973,
+            "longitude": 24.93192,
+            "distanceInKilometers": 0.319,
+            "distanceInMeters": 319
+        },
+        {
+            "id": "001043215",
+            "name": "Postin automaatti, Lidl S\u00e4hk\u00f6talo",
+            "address1": "Kampinkuja 2",
+            "city": "Helsinki",
+            "zipcode": "00104",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "08:00-21:00"
+                ],
+                "tuesday": [
+                    "08:00-21:00"
+                ],
+                "wednesday": [
+                    "08:00-21:00"
+                ],
+                "thursday": [
+                    "08:00-21:00"
+                ],
+                "friday": [
+                    "08:00-21:00"
+                ],
+                "saturday": [
+                    "08:00-21:00"
+                ],
+                "sunday": [
+                    "11:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16833,
+            "longitude": 24.93038,
+            "distanceInKilometers": 0.409,
+            "distanceInMeters": 409
+        },
+        {
+            "id": "001043218",
+            "name": "Postin automaatti, Kauppakeskus Kamppi",
+            "address1": "Urho Kekkosen katu 1",
+            "city": "Helsinki",
+            "zipcode": "00104",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "10:00-20:00"
+                ],
+                "tuesday": [
+                    "10:00-20:00"
+                ],
+                "wednesday": [
+                    "10:00-20:00"
+                ],
+                "thursday": [
+                    "10:00-20:00"
+                ],
+                "friday": [
+                    "10:00-20:00"
+                ],
+                "saturday": [
+                    "10:00-19:00"
+                ],
+                "sunday": [
+                    "12:00-18:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16916,
+            "longitude": 24.93323,
+            "distanceInKilometers": 0.414,
+            "distanceInMeters": 414
+        },
+        {
+            "id": "001043222",
+            "name": "Postin automaatti, P\u00e4\u00e4postitalo",
+            "address1": "Elielinaukio 2",
+            "city": "Helsinki",
+            "zipcode": "00104",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "08:00-20:00"
+                ],
+                "tuesday": [
+                    "08:00-20:00"
+                ],
+                "wednesday": [
+                    "08:00-20:00"
+                ],
+                "thursday": [
+                    "08:00-20:00"
+                ],
+                "friday": [
+                    "08:00-20:00"
+                ],
+                "saturday": [
+                    "10:00-18:00"
+                ],
+                "sunday": [
+                    "10:00-18:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.1717,
+            "longitude": 24.93903,
+            "distanceInKilometers": 0.612,
+            "distanceInMeters": 612
+        },
+        {
+            "id": "001053203",
+            "name": "Postin automaatti, K-Supermarket Kaisaniemi",
+            "address1": "Kaisaniemenkatu 5",
+            "city": "Helsinki",
+            "zipcode": "00105",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "06:30-21:00"
+                ],
+                "tuesday": [
+                    "06:30-21:00"
+                ],
+                "wednesday": [
+                    "06:30-21:00"
+                ],
+                "thursday": [
+                    "06:30-21:00"
+                ],
+                "friday": [
+                    "06:30-21:00"
+                ],
+                "saturday": [
+                    "08:00-21:00"
+                ],
+                "sunday": [
+                    "12:00-19:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.17143,
+            "longitude": 24.94776,
+            "distanceInKilometers": 1.096,
+            "distanceInMeters": 1096
+        },
+        {
+            "id": "001243204",
+            "name": "Postin automaatti, R-kioski Punavuori",
+            "address1": "Fredrikinkatu 12",
+            "city": "Helsinki",
+            "zipcode": "00124",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "06:00-21:00"
+                ],
+                "tuesday": [
+                    "06:00-21:00"
+                ],
+                "wednesday": [
+                    "06:00-21:00"
+                ],
+                "thursday": [
+                    "06:00-21:00"
+                ],
+                "friday": [
+                    "06:00-21:00"
+                ],
+                "saturday": [
+                    "09:00-21:00"
+                ],
+                "sunday": [
+                    "10:00-20:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16085,
+            "longitude": 24.94146,
+            "distanceInKilometers": 1.429,
+            "distanceInMeters": 1429
+        },
+        {
+            "id": "001243206",
+            "name": "Postin automaatti, Lidl L\u00f6nnrotinkatu",
+            "address1": "L\u00f6nnrotinkatu 20",
+            "city": "Helsinki",
+            "zipcode": "00124",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "08:00-21:00"
+                ],
+                "tuesday": [
+                    "08:00-21:00"
+                ],
+                "wednesday": [
+                    "08:00-21:00"
+                ],
+                "thursday": [
+                    "08:00-21:00"
+                ],
+                "friday": [
+                    "08:00-21:00"
+                ],
+                "saturday": [
+                    "08:00-21:00"
+                ],
+                "sunday": [
+                    "11:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16489,
+            "longitude": 24.93436,
+            "distanceInKilometers": 0.847,
+            "distanceInMeters": 847
+        },
+        {
+            "id": "001243207",
+            "name": "Postin automaatti, Posti Annankatu",
+            "address1": "Annankatu 8",
+            "city": "Helsinki",
+            "zipcode": "00124",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-22:00"
+                ],
+                "tuesday": [
+                    "07:00-22:00"
+                ],
+                "wednesday": [
+                    "07:00-22:00"
+                ],
+                "thursday": [
+                    "07:00-22:00"
+                ],
+                "friday": [
+                    "07:00-22:00"
+                ],
+                "saturday": [
+                    "07:00-22:00"
+                ],
+                "sunday": [
+                    "07:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16399,
+            "longitude": 24.94089,
+            "distanceInKilometers": 1.126,
+            "distanceInMeters": 1126
+        },
+        {
+            "id": "001243208",
+            "name": "Postin automaatti, Laivurinrinne 2",
+            "address1": "Laivurinrinne 2",
+            "city": "Helsinki",
+            "zipcode": "00124",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-22:00"
+                ],
+                "tuesday": [
+                    "07:00-22:00"
+                ],
+                "wednesday": [
+                    "07:00-22:00"
+                ],
+                "thursday": [
+                    "07:00-22:00"
+                ],
+                "friday": [
+                    "07:00-22:00"
+                ],
+                "saturday": [
+                    "07:00-22:00"
+                ],
+                "sunday": [
+                    "07:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16137,
+            "longitude": 24.94229,
+            "distanceInKilometers": 1.406,
+            "distanceInMeters": 1406
+        },
+        {
+            "id": "001253201",
+            "name": "Postin automaatti, S-market Bulevardi",
+            "address1": "Hietalahdenranta 7",
+            "city": "Helsinki",
+            "zipcode": "00125",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-22:00"
+                ],
+                "tuesday": [
+                    "07:00-22:00"
+                ],
+                "wednesday": [
+                    "07:00-22:00"
+                ],
+                "thursday": [
+                    "07:00-22:00"
+                ],
+                "friday": [
+                    "07:00-22:00"
+                ],
+                "saturday": [
+                    "07:00-22:00"
+                ],
+                "sunday": [
+                    "09:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16131,
+            "longitude": 24.93006,
+            "distanceInKilometers": 1.173,
+            "distanceInMeters": 1173
+        },
+        {
+            "id": "001343205",
+            "name": "Postin automaatti, Unioninkatu",
+            "address1": "Unioninkatu 22",
+            "city": "HELSINKI",
+            "zipcode": "00134",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "09:00-20:00"
+                ],
+                "tuesday": [
+                    "09:00-20:00"
+                ],
+                "wednesday": [
+                    "09:00-20:00"
+                ],
+                "thursday": [
+                    "09:00-20:00"
+                ],
+                "friday": [
+                    "09:00-20:00"
+                ],
+                "saturday": [
+                    "10:00-16:00"
+                ],
+                "sunday": [],
+                "exceptions": []
+            },
+            "latitude": 60.16652,
+            "longitude": 24.95117,
+            "distanceInKilometers": 1.412,
+            "distanceInMeters": 1412
+        },
+        {
+            "id": "001353201",
+            "name": "Postin automaatti, S-market Kasarmitori",
+            "address1": "Kasarmikatu 19a",
+            "city": "Helsinki",
+            "zipcode": "00135",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "06:30-22:00"
+                ],
+                "tuesday": [
+                    "06:30-22:00"
+                ],
+                "wednesday": [
+                    "06:30-22:00"
+                ],
+                "thursday": [
+                    "06:30-22:00"
+                ],
+                "friday": [
+                    "06:30-22:00"
+                ],
+                "saturday": [
+                    "06:30-22:00"
+                ],
+                "sunday": [
+                    "09:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16541,
+            "longitude": 24.94817,
+            "distanceInKilometers": 1.325,
+            "distanceInMeters": 1325
+        },
+        {
+            "id": "001643204",
+            "name": "Postin automaatti, Alepa Jungmann",
+            "address1": "Kruunuvuorenkatu 4",
+            "city": "Helsinki",
+            "zipcode": "00164",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "00:00-23:59"
+                ],
+                "tuesday": [
+                    "00:00-23:59"
+                ],
+                "wednesday": [
+                    "00:00-23:59"
+                ],
+                "thursday": [
+                    "00:00-23:59"
+                ],
+                "friday": [
+                    "00:00-23:59"
+                ],
+                "saturday": [
+                    "00:00-23:59"
+                ],
+                "sunday": [
+                    "00:00-23:59"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.1665,
+            "longitude": 24.96528,
+            "distanceInKilometers": 2.147,
+            "distanceInMeters": 2147
+        },
+        {
+            "id": "001743201",
+            "name": "Postin automaatti, R-kioski Kruununhaka",
+            "address1": "Liisankatu 23",
+            "city": "Helsinki",
+            "zipcode": "00174",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:30-21:00"
+                ],
+                "tuesday": [
+                    "07:30-21:00"
+                ],
+                "wednesday": [
+                    "07:30-21:00"
+                ],
+                "thursday": [
+                    "07:30-21:00"
+                ],
+                "friday": [
+                    "07:30-21:00"
+                ],
+                "saturday": [
+                    "08:00-21:00"
+                ],
+                "sunday": [
+                    "10:00-17:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.17417,
+            "longitude": 24.95272,
+            "distanceInKilometers": 1.394,
+            "distanceInMeters": 1394
+        },
+        {
+            "id": "001743202",
+            "name": "Postin automaatti, K-Market Krunikka",
+            "address1": "Rauhankatu 9",
+            "city": "Helsinki",
+            "zipcode": "00174",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-22:00"
+                ],
+                "tuesday": [
+                    "07:00-22:00"
+                ],
+                "wednesday": [
+                    "07:00-22:00"
+                ],
+                "thursday": [
+                    "07:00-22:00"
+                ],
+                "friday": [
+                    "07:00-22:00"
+                ],
+                "saturday": [
+                    "08:00-22:00"
+                ],
+                "sunday": [
+                    "10:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.17168,
+            "longitude": 24.95673,
+            "distanceInKilometers": 1.591,
+            "distanceInMeters": 1591
+        },
+        {
+            "id": "001843204",
+            "name": "Postin automaatti, Kaapelitehtaan Kahvibaari",
+            "address1": "Tallberginkatu 1",
+            "city": "Helsinki",
+            "zipcode": "00184",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "08:00-19:00"
+                ],
+                "tuesday": [
+                    "08:00-19:00"
+                ],
+                "wednesday": [
+                    "08:00-19:00"
+                ],
+                "thursday": [
+                    "08:00-19:00"
+                ],
+                "friday": [
+                    "08:00-19:00"
+                ],
+                "saturday": [
+                    "11:00-18:00"
+                ],
+                "sunday": [
+                    "11:00-18:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16207,
+            "longitude": 24.90453,
+            "distanceInKilometers": 1.689,
+            "distanceInMeters": 1689
+        },
+        {
+            "id": "001843206",
+            "name": "Postin automaatti, Tokmanni Ruoholahti",
+            "address1": "It\u00e4merenkatu 21",
+            "city": "Helsinki",
+            "zipcode": "00184",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "08:00-21:00"
+                ],
+                "tuesday": [
+                    "08:00-21:00"
+                ],
+                "wednesday": [
+                    "08:00-21:00"
+                ],
+                "thursday": [
+                    "08:00-21:00"
+                ],
+                "friday": [
+                    "08:00-21:00"
+                ],
+                "saturday": [
+                    "09:00-19:00"
+                ],
+                "sunday": [
+                    "11:00-18:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16356,
+            "longitude": 24.91023,
+            "distanceInKilometers": 1.343,
+            "distanceInMeters": 1343
+        },
+        {
+            "id": "001853201",
+            "name": "Postin automaatti, K-Citymarket Ruoholahti",
+            "address1": "It\u00e4merenkatu 21",
+            "city": "Helsinki",
+            "zipcode": "00185",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "09:00-21:00"
+                ],
+                "tuesday": [
+                    "09:00-21:00"
+                ],
+                "wednesday": [
+                    "09:00-21:00"
+                ],
+                "thursday": [
+                    "09:00-21:00"
+                ],
+                "friday": [
+                    "09:00-21:00"
+                ],
+                "saturday": [
+                    "09:00-21:00"
+                ],
+                "sunday": [
+                    "09:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16359,
+            "longitude": 24.91023,
+            "distanceInKilometers": 1.341,
+            "distanceInMeters": 1341
+        },
+        {
+            "id": "001853203",
+            "name": "Postin automaatti, K-Market J\u00e4tk\u00e4saari",
+            "address1": "V\u00e4limerenkatu 5",
+            "city": "Helsinki",
+            "zipcode": "00185",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-21:00"
+                ],
+                "tuesday": [
+                    "07:00-21:00"
+                ],
+                "wednesday": [
+                    "07:00-21:00"
+                ],
+                "thursday": [
+                    "07:00-21:00"
+                ],
+                "friday": [
+                    "07:00-21:00"
+                ],
+                "saturday": [
+                    "07:00-21:00"
+                ],
+                "sunday": [
+                    "12:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.16047,
+            "longitude": 24.9195,
+            "distanceInKilometers": 1.345,
+            "distanceInMeters": 1345
+        },
+        {
+            "id": "002243203",
+            "name": "Postin automaatti, R-kioski Helsinki V\u00e4limerenkatu",
+            "address1": "V\u00e4limerenkatu 14",
+            "city": "Helsinki",
+            "zipcode": "00224",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-21:00"
+                ],
+                "tuesday": [
+                    "07:00-21:00"
+                ],
+                "wednesday": [
+                    "07:00-21:00"
+                ],
+                "thursday": [
+                    "07:00-21:00"
+                ],
+                "friday": [
+                    "07:00-21:00"
+                ],
+                "saturday": [
+                    "08:00-21:00"
+                ],
+                "sunday": [
+                    "09:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.15857,
+            "longitude": 24.91488,
+            "distanceInKilometers": 1.64,
+            "distanceInMeters": 1640
+        },
+        {
+            "id": "002243205",
+            "name": "Postin automaatti, Lidl J\u00e4tk\u00e4saari",
+            "address1": "L\u00e4nsisatamankatu 35",
+            "city": "Helsinki",
+            "zipcode": "00224",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "08:00-21:00"
+                ],
+                "tuesday": [
+                    "08:00-21:00"
+                ],
+                "wednesday": [
+                    "08:00-21:00"
+                ],
+                "thursday": [
+                    "08:00-21:00"
+                ],
+                "friday": [
+                    "08:00-21:00"
+                ],
+                "saturday": [
+                    "08:00-21:00"
+                ],
+                "sunday": [
+                    "10:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.15548,
+            "longitude": 24.91502,
+            "distanceInKilometers": 1.952,
+            "distanceInMeters": 1952
+        },
+        {
+            "id": "002243207",
+            "name": "Postin automaatti, OmaPosti-kioski, J\u00e4tk\u00e4saari",
+            "address1": "Tyynenmerenkatu 11",
+            "city": "Helsinki",
+            "zipcode": "00224",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-23:00"
+                ],
+                "tuesday": [
+                    "07:00-23:00"
+                ],
+                "wednesday": [
+                    "07:00-23:00"
+                ],
+                "thursday": [
+                    "07:00-23:00"
+                ],
+                "friday": [
+                    "07:00-23:00"
+                ],
+                "saturday": [
+                    "07:00-23:00"
+                ],
+                "sunday": [
+                    "07:00-23:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.15633,
+            "longitude": 24.92135,
+            "distanceInKilometers": 1.76,
+            "distanceInMeters": 1760
+        },
+        {
+            "id": "002543202",
+            "name": "Postin automaatti, Posti T\u00f6\u00f6l\u00f6",
+            "address1": "Linnankoskenkatu 14",
+            "city": "Helsinki",
+            "zipcode": "00254",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-22:00"
+                ],
+                "tuesday": [
+                    "07:00-22:00"
+                ],
+                "wednesday": [
+                    "07:00-22:00"
+                ],
+                "thursday": [
+                    "07:00-22:00"
+                ],
+                "friday": [
+                    "07:00-22:00"
+                ],
+                "saturday": [
+                    "07:00-22:00"
+                ],
+                "sunday": [
+                    "07:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.18491,
+            "longitude": 24.91571,
+            "distanceInKilometers": 1.606,
+            "distanceInMeters": 1606
+        },
+        {
+            "id": "002543203",
+            "name": "Postin automaatti, K-Market Kisahalli",
+            "address1": "Mannerheimintie 70",
+            "city": "Helsinki",
+            "zipcode": "00254",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-21:00"
+                ],
+                "tuesday": [
+                    "07:00-21:00"
+                ],
+                "wednesday": [
+                    "07:00-21:00"
+                ],
+                "thursday": [
+                    "07:00-21:00"
+                ],
+                "friday": [
+                    "07:00-21:00"
+                ],
+                "saturday": [
+                    "09:00-21:00"
+                ],
+                "sunday": [
+                    "10:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.18328,
+            "longitude": 24.92442,
+            "distanceInKilometers": 1.29,
+            "distanceInMeters": 1290
+        },
+        {
+            "id": "002543206",
+            "name": "Postin automaatti, Alepa Kisahalli",
+            "address1": "Mannerheimintie 76",
+            "city": "Helsinki",
+            "zipcode": "00254",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "09:00-21:00"
+                ],
+                "tuesday": [
+                    "09:00-21:00"
+                ],
+                "wednesday": [
+                    "09:00-21:00"
+                ],
+                "thursday": [
+                    "09:00-21:00"
+                ],
+                "friday": [
+                    "09:00-21:00"
+                ],
+                "saturday": [
+                    "09:00-21:00"
+                ],
+                "sunday": [
+                    "09:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.18501,
+            "longitude": 24.92211,
+            "distanceInKilometers": 1.503,
+            "distanceInMeters": 1503
+        },
+        {
+            "id": "002643201",
+            "name": "Postin automaatti, K-Supermarket Kasarmi",
+            "address1": "Pohjoinen Hesperiankatu 33",
+            "city": "HELSINKI",
+            "zipcode": "00264",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "08:00-21:00"
+                ],
+                "tuesday": [
+                    "08:00-21:00"
+                ],
+                "wednesday": [
+                    "08:00-21:00"
+                ],
+                "thursday": [
+                    "08:00-21:00"
+                ],
+                "friday": [
+                    "08:00-21:00"
+                ],
+                "saturday": [
+                    "08:00-21:00"
+                ],
+                "sunday": [
+                    "10:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.17688,
+            "longitude": 24.91678,
+            "distanceInKilometers": 0.837,
+            "distanceInMeters": 837
+        },
+        {
+            "id": "002643205",
+            "name": "Postin automaatti, Runeberginkatu 58",
+            "address1": "Runeberginkatu 58",
+            "city": "Helsinki",
+            "zipcode": "00264",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-22:00"
+                ],
+                "tuesday": [
+                    "07:00-22:00"
+                ],
+                "wednesday": [
+                    "07:00-22:00"
+                ],
+                "thursday": [
+                    "07:00-22:00"
+                ],
+                "friday": [
+                    "07:00-22:00"
+                ],
+                "saturday": [
+                    "07:00-22:00"
+                ],
+                "sunday": [
+                    "07:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.18128,
+            "longitude": 24.92608,
+            "distanceInKilometers": 1.058,
+            "distanceInMeters": 1058
+        },
+        {
+            "id": "005343201",
+            "name": "Postin automaatti, Lidl Nelj\u00e4s linja",
+            "address1": "Nelj\u00e4s linja 3",
+            "city": "HELSINKI",
+            "zipcode": "00534",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "08:00-22:00"
+                ],
+                "tuesday": [
+                    "08:00-22:00"
+                ],
+                "wednesday": [
+                    "08:00-22:00"
+                ],
+                "thursday": [
+                    "08:00-22:00"
+                ],
+                "friday": [
+                    "08:00-22:00"
+                ],
+                "saturday": [
+                    "08:00-22:00"
+                ],
+                "sunday": [
+                    "10:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.18218,
+            "longitude": 24.95323,
+            "distanceInKilometers": 1.812,
+            "distanceInMeters": 1812
+        },
+        {
+            "id": "005343213",
+            "name": "Postin automaatti, R-kioski Hakaniemi Metro",
+            "address1": "Siltasaarenkatu 7",
+            "city": "Helsinki",
+            "zipcode": "00534",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "06:00-21:00"
+                ],
+                "tuesday": [
+                    "06:00-21:00"
+                ],
+                "wednesday": [
+                    "06:00-21:00"
+                ],
+                "thursday": [
+                    "06:00-21:00"
+                ],
+                "friday": [
+                    "06:00-21:00"
+                ],
+                "saturday": [
+                    "09:00-21:00"
+                ],
+                "sunday": [
+                    "09:00-21:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.17805,
+            "longitude": 24.94989,
+            "distanceInKilometers": 1.397,
+            "distanceInMeters": 1397
+        },
+        {
+            "id": "005343216",
+            "name": "Postin automaatti, K-Market Merihaka",
+            "address1": "Haapaniemenkatu 14",
+            "city": "Helsinki",
+            "zipcode": "00534",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-22:00"
+                ],
+                "tuesday": [
+                    "07:00-22:00"
+                ],
+                "wednesday": [
+                    "07:00-22:00"
+                ],
+                "thursday": [
+                    "07:00-22:00"
+                ],
+                "friday": [
+                    "07:00-22:00"
+                ],
+                "saturday": [
+                    "08:00-22:00"
+                ],
+                "sunday": [
+                    "10:00-22:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.17971,
+            "longitude": 24.96058,
+            "distanceInKilometers": 2.006,
+            "distanceInMeters": 2006
+        },
+        {
+            "id": "005343217",
+            "name": "Postin automaatti, S-market Hakaniemi",
+            "address1": "Siltasaarenkatu 8-10",
+            "city": "Helsinki",
+            "zipcode": "00534",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "07:00-23:00"
+                ],
+                "tuesday": [
+                    "07:00-23:00"
+                ],
+                "wednesday": [
+                    "07:00-23:00"
+                ],
+                "thursday": [
+                    "07:00-23:00"
+                ],
+                "friday": [
+                    "07:00-23:00"
+                ],
+                "saturday": [
+                    "07:00-23:00"
+                ],
+                "sunday": [
+                    "09:00-23:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.17805,
+            "longitude": 24.94989,
+            "distanceInKilometers": 1.397,
+            "distanceInMeters": 1397
+        },
+        {
+            "id": "005343218",
+            "name": "Postin automaatti, Alepa Kallio",
+            "address1": "Castr\u00e9ninkatu 9-11",
+            "city": "Helsinki",
+            "zipcode": "00534",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "06:30-23:00"
+                ],
+                "tuesday": [
+                    "06:30-23:00"
+                ],
+                "wednesday": [
+                    "06:30-23:00"
+                ],
+                "thursday": [
+                    "06:30-23:00"
+                ],
+                "friday": [
+                    "06:30-23:00"
+                ],
+                "saturday": [
+                    "06:30-23:00"
+                ],
+                "sunday": [
+                    "09:00-23:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.18506,
+            "longitude": 24.94759,
+            "distanceInKilometers": 1.83,
+            "distanceInMeters": 1830
+        },
+        {
+            "id": "005343219",
+            "name": "Postin automaatti, K-Market Hakaniemen Herkku",
+            "address1": "Siltasaarenkatu 16",
+            "city": "Helsinki",
+            "zipcode": "00534",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "06:30-21:00"
+                ],
+                "tuesday": [
+                    "06:30-21:00"
+                ],
+                "wednesday": [
+                    "06:30-21:00"
+                ],
+                "thursday": [
+                    "06:30-21:00"
+                ],
+                "friday": [
+                    "06:30-21:00"
+                ],
+                "saturday": [
+                    "09:00-21:00"
+                ],
+                "sunday": [
+                    "12:00-20:00"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.17948,
+            "longitude": 24.94937,
+            "distanceInKilometers": 1.459,
+            "distanceInMeters": 1459
+        },
+        {
+            "id": "005353201",
+            "name": "Postin automaatti, S-market Ympyr\u00e4talo",
+            "address1": "Siltasaarenkatu 18",
+            "city": "Helsinki",
+            "zipcode": "00535",
+            "countryCode": "FI",
+            "serviceId": "posti.po2103",
+            "carrier": "Posti",
+            "carrierLogo": "https:\/\/apitest.shipit.ax\/images\/carrier-logos\/1.1%20Posti%20logo%20Posti%20Orange%20rgb.png",
+            "openingHours": {
+                "monday": [
+                    "00:00-23:59"
+                ],
+                "tuesday": [
+                    "00:00-23:59"
+                ],
+                "wednesday": [
+                    "00:00-23:59"
+                ],
+                "thursday": [
+                    "00:00-23:59"
+                ],
+                "friday": [
+                    "00:00-23:59"
+                ],
+                "saturday": [
+                    "00:00-23:59"
+                ],
+                "sunday": [
+                    "00:00-23:59"
+                ],
+                "exceptions": []
+            },
+            "latitude": 60.18047,
+            "longitude": 24.94949,
+            "distanceInKilometers": 1.531,
+            "distanceInMeters": 1531
+        }
+    ]
+}
